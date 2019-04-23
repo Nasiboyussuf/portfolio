@@ -29,7 +29,7 @@
   }
   .me img{
     width:300px;
-    maximum-width:100%;
+    max-width:100%;
   }
   .card {
     /* Add shadows to create the "card" effect */
@@ -47,5 +47,5 @@
     padding: 2px 16px;
   }
   .card img{
-      width:
+      width:300px;
   }
