@@ -5,6 +5,7 @@
 This application defines who am i and how exactly my coding journey has been.It contains some of the projects i've done since i've started coding.it contains my image,about me section which talks about my educational background,where am coming from and other personal information about me
 ## Setup/Installation Requirements
 1.Click the fork button on the top right corner of the file.
+
 2.Click the clone or download button to clone my work on personal PC.
 
 ## Known Bugs
